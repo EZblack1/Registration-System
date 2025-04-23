@@ -33,4 +33,4 @@ public class Main {
         Participante participante = new Participante("Carlos Souza", "carlos@email.com");
         participanteController.cadastrarParticipante(participante);
     }
-}
+}//
