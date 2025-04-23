@@ -15,3 +15,4 @@ public class Palestrante {
     public String getCurriculo() { return curriculo; }
     public String getAreaAtuacao() { return areaAtuacao; }
 }
+//
