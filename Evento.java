@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class Evento {
     private String nome;
     private String descricao;
-    private LocalDate data;
+    private String data;
     private String local;
     private int capacidade;
 
