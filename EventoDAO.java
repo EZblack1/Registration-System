@@ -19,7 +19,7 @@ public class EventoDAO {
         try (PreparedStatement stmt = conn.prepareStatement(sql)) {
             stmt.setString(1, evento.getNome());
             stmt.setString(2, evento.getDescricao());
-            stmt.setDate(3, Date.valueOf(evento.getData()));
+            stmt.setString(3, evento.getData());
             stmt.setString(4, evento.getLocal());
             stmt.setInt(5, evento.getCapacidade());
             stmt.executeUpdate();
