@@ -1,4 +1,4 @@
-ackage br.com.eventos.ui;
+package br.com.eventos.ui;
 
 import br.com.eventos.model.Evento;
 import br.com.eventos.model.Palestrante;
