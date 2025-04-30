@@ -7,7 +7,6 @@ import br.com.eventos.model.Evento;
 import br.com.eventos.model.Palestrante;
 import br.com.eventos.model.Participante;
 
-import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
