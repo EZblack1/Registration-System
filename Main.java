@@ -23,7 +23,7 @@ public class Main {
         Evento evento = new Evento(
                 "Tech Summit 2025",
                 "Evento sobre tecnologias emergentes",
-                LocalDate.of(2025, 10, 20),
+                "2025-03-20",
                 "Centro de Convenções",
                 300
         );
