@@ -19,7 +19,7 @@ public class Evento {
 
     public String getNome() { return nome; }
     public String getDescricao() { return descricao; }
-    public LocalDate getData() { return data; }
+    public String getData() { return data; }
     public String getLocal() { return local; }
     public int getCapacidade() { return capacidade; }
 }
